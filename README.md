@@ -8,7 +8,7 @@
 > 
 > Link: [Template](https://www.roblox.com/games/16549508083/Game-Template#!/about)
 >
-> Guide to use: [TBD](about:blank)
+> Guide to use: [TBA](about:blank)
 
 ### What is this project about?
   This project is an open-source Roblox game template designed to be a toolkit everyone needs—especially to those who wants to create their own games but lack coding skills. Throughout my time as a programmer, I have seen many people who might not know how to start requesting for codes, so I have made this project to bridge that gap. It offers a foundational structure that users can customize and improve on, with a certain level of programming, of course.
