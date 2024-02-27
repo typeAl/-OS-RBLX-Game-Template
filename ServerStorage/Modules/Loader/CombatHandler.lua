@@ -1,4 +1,4 @@
---[Never intended to be completed. Users need to add their own logic into this module.]--
+--[ Never intended to be completed. Users need to add their own logic into this module. ]--
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
